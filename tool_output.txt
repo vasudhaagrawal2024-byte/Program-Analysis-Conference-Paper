@@ -1,0 +1,5 @@
+Cppcheck Warning:
+Division by zero detected at line 5.
+
+Infer Warning:
+Potential runtime error: division by zero.
